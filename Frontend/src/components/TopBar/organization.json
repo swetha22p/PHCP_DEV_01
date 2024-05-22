@@ -1,0 +1,14 @@
+[
+  {
+      "organizationname": "rcts",
+      "logo_url": "https://pl-app.iiit.ac.in/rcts/phcp/assets/images/banner.svg"
+  },
+  {
+      "organizationname": "organization2",
+      "logo_url": "https://example.com/logo2.png"
+  },
+  {
+      "organizationname": "organization3",
+      "logo_url": "https://example.com/logo3.png"
+  }
+]

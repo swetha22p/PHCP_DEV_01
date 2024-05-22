@@ -1,0 +1,137 @@
+.rectangle-box {
+    width: 1700px; /* Adjust width as needed */
+    height: 100px; /* Adjust height as needed */
+    background-color: #f0f0f0; /* Adjust background color as needed */
+    border: 1px solid #ccc; /* Adjust border properties as needed */
+    border-radius: 5px; /* Adjust border radius as needed */
+    padding: 20px; /* Adjust padding as needed */
+    position: relative;
+    overflow-y: auto; /* Enable vertical scrolling if content exceeds box height */
+    margin-left: 25px;
+
+    &__timeline {
+        position: absolute;
+        left: 10px; /* Adjust left position as needed */
+        top: 10px; /* Adjust top position as needed */
+        width: 100px; /* Adjust width of timeline as needed */
+        padding: 10px; /* Adjust padding of timeline as needed */
+        background-color: #fff; /* Adjust background color of timeline as needed */
+        border: 1px solid #ccc; /* Adjust border properties of timeline as needed */
+        border-radius: 5px; /* Adjust border radius of timeline as needed */
+        font-size: 14px; /* Adjust font size of timeline text as needed */
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow to timeline for better visibility */
+    }
+}
+.button-container {
+  display: flex;
+  justify-content: space-between; /* Adjust alignment as needed */
+}
+
+.square-box {
+  width: 400px; /* Adjust width as needed */
+  height: 400px; /* Adjust height to match the width for a square */
+  background-color: #f0f0f0; /* Adjust background color as needed */
+  border: 1px solid #ccc; /* Adjust border properties as needed */
+  border-radius: 5px; /* Adjust border radius as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px; /* Adjust font size as needed */
+  margin-left: 25px;
+}
+.rectangle-button {
+  width: 350px; /* Adjust width as needed */
+  height: 30px; /* Adjust height as needed */
+  background-color: #f0f0f0; /* Adjust background color as needed */
+  border: 1px solid #ccc; /* Adjust border properties as needed */
+  border-radius: 5px; /* Adjust border radius as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px; /* Adjust font size as needed */
+  margin: 20px; /* Adjust margin between buttons as needed */
+  cursor: pointer; /* Change cursor to pointer on hover */
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.rectangle-box3 {
+  width: 1270px; /* Adjust width as needed */
+  height: auto; /* Adjust height as needed */
+  background-color: #fdfdff; /* Adjust background color as needed */
+  border: 1px solid #f8f5f5; /* Adjust border properties as needed */
+  border-radius: 5px; /* Adjust border radius as needed */
+  padding: 20px; /* Adjust padding as needed */
+  position: relative;
+  overflow-y: auto; /* Enable vertical scrolling if content exceeds box height */
+  margin-right: 25px;
+}
+
+.rectangle-box1 {
+  width: 500px; /* Adjust width as needed */
+  height: auto; /* Adjust height as needed */
+  background-color: #f0f0f0; /* Adjust background color as needed */
+  border: 1px solid #ccc; /* Adjust border properties as needed */
+  border-radius: 5px; /* Adjust border radius as needed */
+  padding: 20px; /* Adjust padding as needed */
+  position: relative;
+  overflow-y: auto; /* Enable vertical scrolling if content exceeds box height */
+  margin-bottom: 20px; /* Adjust margin between boxes as needed */
+}
+
+.rectangle-box2 {
+  width: 1200px; /* Adjust width as needed */
+  height: 147px; /* Adjust height as needed */
+  background-color: #f0f0f0; /* Adjust background color as needed */
+  border: 1px solid #ccc; /* Adjust border properties as needed */
+  border-radius: 5px; /* Adjust border radius as needed */
+  padding: 20px; /* Adjust padding as needed */
+  position: relative;
+  overflow-y: auto; /* Enable vertical scrolling if content exceeds box height */
+  margin-top: 10px;
+}
+.rectangle-box4 {
+  width: 1270px; /* Adjust width as needed */
+  height: 80px; /* Adjust height as needed */
+  background-color: #f0f0f0; /* Adjust background color as needed */
+  border: 1px solid #f5f2f2; /* Adjust border properties as needed */
+  border-radius: 5px; /* Adjust border radius as needed */
+  padding: 20px; /* Adjust padding as needed */
+  position: relative;
+  overflow-y: auto; /* Enable vertical scrolling if content exceeds box height */
+  margin-right: 25px;
+  margin-top: 10px;
+  display: flex;
+    // flex-direction: column;
+}
+
+
+
+
+//     display: flex;
+//     flex-wrap: wrap;
+// }
+
+// .card {
+//     // margin: 10px 15px;
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+//     flex-wrap: wrap;
+//     flex: 1;
+
+// }
+// @media only screen and (max-width: 768px) {
+//     .chartContainer {
+//       flex-direction: column; /* Change layout to column on small screens */
+      
+//     }
+// @media only screen and (max-width: 600px) {
+//       .chart {
+//         margin-top: 0;
+//       }
+//     }
+  
+   
+//   }
+  
