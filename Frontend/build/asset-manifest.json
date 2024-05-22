@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rcts/phcp/static/css/main.fc60f940.css",
+    "main.js": "/rcts/phcp/static/js/main.d1367f35.js",
+    "static/js/708.d07f9576.chunk.js": "/rcts/phcp/static/js/708.d07f9576.chunk.js",
+    "static/js/787.ad7fcbd7.chunk.js": "/rcts/phcp/static/js/787.ad7fcbd7.chunk.js",
+    "static/media/primeicons.svg": "/rcts/phcp/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/rcts/phcp/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/rcts/phcp/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/rcts/phcp/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "service-worker.js": "/rcts/phcp/service-worker.js",
+    "static/media/primeicons.woff2": "/rcts/phcp/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/hamburger.svg": "/rcts/phcp/static/media/hamburger.3742c0d9bd129b931029.svg",
+    "index.html": "/rcts/phcp/index.html",
+    "main.fc60f940.css.map": "/rcts/phcp/static/css/main.fc60f940.css.map",
+    "main.d1367f35.js.map": "/rcts/phcp/static/js/main.d1367f35.js.map",
+    "708.d07f9576.chunk.js.map": "/rcts/phcp/static/js/708.d07f9576.chunk.js.map",
+    "787.ad7fcbd7.chunk.js.map": "/rcts/phcp/static/js/787.ad7fcbd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc60f940.css",
+    "static/js/main.d1367f35.js"
+  ]
+}
